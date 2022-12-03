@@ -16,7 +16,7 @@ public class MainClass {
 		 * -mostra progresso in console
 		 * -converti anche in png
 		 */
-		ImageASCIIfier.ASCIIfy("nomeFileInput", "formatoInput", "nomeFileOutput", 0, 0, 0, false, false, false);
+		ImageASCIIfier.ASCIIfy("test", "png", "output", 1080, 1920, 4, false, false, false);
 		
 	}
 	
